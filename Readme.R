@@ -1,0 +1,1 @@
+# Állomáskód beolvasás
