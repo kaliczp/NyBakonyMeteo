@@ -15,3 +15,4 @@ Prec <- xts(rawdata$r, order.by = ido)
 apply.yearly(Prec, sum)
 
 Precall <- Prec
+Precall <- c(Precall, Prec)
